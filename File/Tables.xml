@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<root>
+<Employee>
+  <Employee>
+    <ID>1</ID>
+    <Name>Mohamed</Name>
+    <age>20</age>
+    <Salary>1000</Salary>
+    <HoursWork>8</HoursWork>
+  </Employee>
+  <Employee>
+    <ID>2</ID>
+    <Name>Ahmed</Name>
+    <age>18</age>
+    <Salary>5000</Salary>
+    <HoursWork>9</HoursWork>
+  </Employee>
+  <Employee>
+    <ID>2</ID>
+    <Name>Mostafa</Name>
+    <age>18</age>
+    <Salary>6500</Salary>
+    <HoursWork>10</HoursWork>
+  </Employee>
+</Employee>
+
+  <Student>
+    <Student>
+      <name>salah</name>
+      <grades>200</grades>
+      <Gender>Male</Gender>
+    </Student>
+    <Student>
+      <name>isma3el</name>
+      <grades>300</grades>
+      <Gender>Male</Gender>
+    </Student>
+    <Student>
+      <name>hussien</name>
+      <grades>400</grades>
+      <Gender>Male</Gender>
+    </Student>
+      <Student>
+      <name>Aya</name>
+      <grades>250</grades>
+      <Gender>Female</Gender>
+    </Student>
+    <Student>
+      <name>Mona</name>
+      <grades>250</grades>
+      <Gender>Female</Gender>
+    </Student>
+  </Student>
+  
+  <product>
+    <product>
+      <name>fish</name>
+      <price>20</price>
+      <quantity>5</quantity>
+    </product>
+    <product>
+      <name>apple</name>
+      <price>10</price>
+      <quantity>44</quantity>
+    </product>
+    <product>
+      <name>orange</name>
+      <price>5</price>
+      <quantity>7</quantity>
+    </product>
+  </product>
+
+</root>
